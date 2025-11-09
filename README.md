@@ -1,4 +1,4 @@
-# 🏠 PIR Motion Sensor with Stadium Wave LED Effect
+# PIR Motion Sensor with Stadium Wave LED Effect
 
 <div align="center">
 
