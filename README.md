@@ -2,6 +2,9 @@
 
 <div align="center">
 
+![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **A home automation project that detects motion using a PIR sensor and creates a mesmerizing stadium wave effect with LEDs**
 
